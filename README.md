@@ -1,5 +1,5 @@
 # MCP-Gmail-API-Manager
-
+create an desktop app in google cloud console ,get the credentials json file and enable the gmail API
 paste in claude config for mcp servr usage
 
 {
