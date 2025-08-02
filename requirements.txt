@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+mcp
+langchain
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+langgraph
+langchain_mcp_adapters
+langchain_groq
